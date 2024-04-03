@@ -1,5 +1,5 @@
 {
-  "name": "update-price",
+  "name": "shopify-script",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,6 +16,8 @@
     "graphql-request": "^6.1.0",
     "node-fetch": "^3.3.2",
     "shopify-api-node": "^3.13.1",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "csv-writer": "^1.6.0",
+    "request": "^2.88.2"
   }
 }
