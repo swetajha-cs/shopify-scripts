@@ -1,0 +1,21 @@
+{
+  "name": "update-price",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/shopify-api": "^9.5.1",
+    "axios": "^1.6.8",
+    "csv-parser": "^3.0.0",
+    "graphql-request": "^6.1.0",
+    "node-fetch": "^3.3.2",
+    "shopify-api-node": "^3.13.1",
+    "xlsx": "^0.18.5"
+  }
+}
